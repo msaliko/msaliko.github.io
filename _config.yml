@@ -2,11 +2,12 @@
 # Basic settings.
 #
 # baseurl: http://localhost:4000
-#baseurl: http://msaliko.github.io
+url: http://msaliko.github.io
 title: Kiam la vespertoj flugas...
 description: Mia esperante blogo.
 avatar: /assets/img/ogp.png
-encoding: UTF-8
+locale: eo_EO
+#encoding: UTF-8
 #
 # Icons
 #

@@ -6,8 +6,8 @@ url: http://msaliko.github.io
 title: Kiam la vespertoj flugas...
 description: Mia esperante blogo.
 avatar: /assets/img/ogp.png
-locale: eo_EO
-#encoding: UTF-8
+# locale: eo_EO
+# encoding: UTF-8
 #
 # Icons
 #
@@ -19,7 +19,7 @@ icons:
   twitter: misaliko
   facebook:
   google_plus:
-  tumblr:
+  tumblr: msaliko
   behance:
   dribbble:
   flickr:

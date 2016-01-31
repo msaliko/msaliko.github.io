@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vizitoj
+title: <i class="fa fa-comments"> Vizitoj</i>
 comments: yes
 permalink: /guestbook/
 ---

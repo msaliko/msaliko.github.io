@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Etikedoj
+title: <i class="fa fa-tags"> Etikedoj</i>
 permalink: /tags/
 ---
 

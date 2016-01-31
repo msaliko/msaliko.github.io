@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arkivoj
+title: <i class="fa fa-calendar"> Arkivoj</i>
 permalink: /archives/
 ---
 

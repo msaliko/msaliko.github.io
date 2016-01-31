@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kategorioj
+title: <i class="fa fa-star"> Kategorioj</i>
 permalink: /categories/
 ---
 

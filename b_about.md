@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pri mi
+title: <i class="fa fa-user"> Pri mi</i>
 comments: no
 permalink: /about/
 ---

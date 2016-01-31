@@ -1,4 +1,5 @@
-# mia blogo
+# Blog de Croniques Linux
 
-Ĉi blogo estas kie mi skribas esperante kelkajn tekstojn.
-Se vi *volus* sendi mesaĝon al mi, vi skribu min per tvitero `@msaliko` ;-)
+Sobre Gnu/Linux i d'altres!
+
+fet amb Jekyll

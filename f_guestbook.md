@@ -1,9 +1,10 @@
 ---
 layout: page
-title: <i class="fa fa-comments"> Vizitoj</i>
+title: Vizitoj
 comments: yes
 permalink: /guestbook/
 ---
-## Hola, ací pots fer el comentari que creguis convenient ;-)
+<i class="fa fa-comments fa-3x"></i>
+## Saluton, ĉi tie vi povas skribi al mi ;-)
 
 

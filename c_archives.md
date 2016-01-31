@@ -1,9 +1,9 @@
 ---
 layout: page
-title: <i class="fa fa-calendar"> Arkivoj</i>
+title: Arkivoj 
 permalink: /archives/
 ---
-
+<i class="fa fa-calendar fa-3x"></i>
 <ul class="tags-box">
 
 {% if site.posts != empty %}

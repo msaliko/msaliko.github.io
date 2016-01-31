@@ -1,8 +1,9 @@
 ---
 layout: page
-title: <i class="fa fa-tags"> Etikedoj</i>
+title: Etikedoj
 permalink: /tags/
 ---
+<i class="fa fa-tags fa-3x"></i>
 
 <ul class="tags-box">
 {% if site.posts != empty %}

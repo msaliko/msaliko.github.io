@@ -1,12 +1,15 @@
 ---
 layout: page
-title: <i class="fa fa-user"> Pri mi</i>
+title: Pri mi
 comments: no
 permalink: /about/
 ---
 
 
 ### Ĉi blogo...
+
+<i class="fa fa-user fa-3x"></i>
+
 
 Ĉi tiu estas mia blogo esperante.
 

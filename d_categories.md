@@ -1,8 +1,9 @@
 ---
 layout: page
-title: <i class="fa fa-star"> Kategorioj</i>
+title: Kategorioj
 permalink: /categories/
 ---
+<i class="fa fa-star fa-3x"></i>
 
 <ul class="tags-box">
 {% if site.posts != empty %}

@@ -1,5 +1,5 @@
-# Blog de Croniques Linux
+# Blogon Esperante mi skribas 
 
-Sobre Gnu/Linux i d'altres!
+Pri fotoj, ideoj, kaj aliaj...
 
-fet amb Jekyll
+farita per Jekyll

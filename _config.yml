@@ -74,6 +74,6 @@ highlighter: pygments
 kramdown:
         input: GFM
         syntax_highlighter: rouge
-gems: [jekyll-paginate]
+gems: [jemoji, jekyll-paginate]
 paginate: 5
 excerpt_separator: <!-- more -->

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: La Artiŝoko
-date: '2016-05-08 22:21'
 categories: poezio
 tags: poezio
 ---

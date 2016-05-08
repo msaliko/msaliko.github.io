@@ -14,12 +14,12 @@ Mi esperantigis poemon de ***Ibn al-Talla*** de Mahdiyya (jarcento X, 1113):
 **Artiŝoko**
 
 Filino de la akvo kaj de la tero, 
-sian abundecon ofertas 
-al kiu ĝin atendas, 
-fermata en sia kastelo da avareco, 
-tiel nesatigebla, 
+sian abundecon ofertas  
+al kiu ĝin atendas,  
+fermata en sia kastelo da avareco,  
+tiel nesatigebla,  
 kiel virgulino en vualo de lancoj.
-
+  
 --------
 Mi trovis tiun poemon en la libro:
 
